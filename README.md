@@ -1,1 +1,3 @@
-# Create-Word-cloud-with-Python-<img src="wordcloud.png">
+# Create-Word-cloud-with-Python-
+
+<img src="wordcloud.png">
